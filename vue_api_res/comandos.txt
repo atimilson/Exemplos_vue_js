@@ -1,0 +1,3 @@
+npm i babel-eslint --save-dev
+npm install axios --save
+npm install bootstrap jquery popper.js --save
